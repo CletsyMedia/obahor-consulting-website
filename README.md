@@ -1,14 +1,13 @@
 # Obahor Consulting: Cloud & Security Practice website
 
-Static site (HTML, CSS, JavaScript with three.js and GSAP from CDNs). No build step.
+Proprietary. © 2026 Obahor Consulting LLC. All rights reserved. See LICENSE.
+
+Static site (HTML, CSS and JavaScript with three.js and GSAP from CDNs). No build step on Vercel.
 
 - `index.html`: the whole site (Overview, Cloud Security, Penetration Testing, AI Security, The Firm, Consultation)
 - `images/`: logo and photos
+- `robots.txt`, `sitemap.xml`, `llms.txt`: search and AI discovery
+- `vercel.json`: caching and security headers
 
-## Deploy on Vercel
-Add New → Project → import this repo → Framework preset "Other" → Deploy.
-
-## Before launch
-- Connect the consultation and newsletter forms to email or the CRM
-- Replace `[client email]` placeholders
-- Add real prices, certifications, privacy policy and terms
+Forms (consultation and newsletter) are delivered by email to mog@hordanso.com through FormSubmit.
+The first submission sends a one time activation email to that inbox; click the link once to start receiving submissions.
