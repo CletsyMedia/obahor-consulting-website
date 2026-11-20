@@ -1,0 +1,21 @@
+# Obahor Consulting
+
+> Boutique cloud and security practice in Dallas, Texas, founded in 2010. Obahor tests, hardens and monitors the cloud, applications and AI of growing companies and explains every finding in plain English.
+
+## Services
+- Cloud Security Review: AWS, Microsoft Azure, Google Cloud, Microsoft 365 and Google Workspace. Identity and MFA, zero trust access, WAF and DNS filtering, data exposure, logging and SIEM threat detection.
+- Penetration Testing: external and internal network, web applications, APIs, cloud, wireless and phishing simulation. Proven attack paths, free retest and an attestation letter for SOC 2, HIPAA, PCI DSS and cyber insurance.
+- AI Security Testing: AI red teaming for chatbots, copilots and AI agents covering prompt injection, jailbreaks, data leakage, agent permissions and exposed keys. Aligned to OWASP Top 10 for LLM Applications, MITRE ATLAS and NIST AI RMF.
+- Monitoring and Detection: always on monitoring, AI assisted triage, monthly executive report.
+- Resilience: encrypted offsite backups with scheduled restore tests, ransomware readiness, incident response.
+- Compliance and vCISO: SOC 2, HIPAA, PCI DSS, ISO 27001, NIST CSF and CMMC readiness and fractional security leadership.
+
+## Industries
+Financial services, healthcare, SaaS and technology, legal, aviation, logistics, manufacturing and professional services.
+
+## Contact
+- Address: 5301 Alpha Rd 80 6048, Dallas, TX 75240, United States
+- Phone: +1 469 893 0678
+- Email: mog@hordanso.com
+- Hours: Monday to Friday, 8:00 to 18:00 Central; incident line 24/7
+- Website: https://obahorconsulting.com/
