@@ -9,5 +9,5 @@ Static site (HTML, CSS and JavaScript with three.js and GSAP from CDNs). No buil
 - `robots.txt`, `sitemap.xml`, `llms.txt`: search and AI discovery
 - `vercel.json`: caching and security headers
 
-Forms (consultation and newsletter) are delivered by email to mog@hordanso.com through FormSubmit.
+Forms (consultation and newsletter) are delivered by email to mog@obahorconsulting.com through FormSubmit.
 The first submission sends a one time activation email to that inbox; click the link once to start receiving submissions.
